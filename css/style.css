@@ -1,0 +1,40 @@
+.span{
+	font-size: 25px;
+	border:2px solid black;
+	background-color: red;
+}
+.heading1
+{
+	font-size: 50px;
+	background-color: gray;
+	border:2px solid black;
+	text-align: center;
+}
+.heading2
+{
+	font-size: 50px;
+	background-color: indianred;
+	border:2px solid black;
+	text-align: center;
+}
+.id1{
+	text-align: center;
+	border: 2px solid black;
+	width: 400px;
+	height:100px;
+	font-size: 20px;
+	color: black;
+	background-color: #e97451;
+}
+.id2{
+	text-align: center;
+	border: 2px solid black;
+	width: 400px;
+	height:100px;
+	font-size: 20px;
+	color: black;
+	background-color: #e4d00a;
+}
+.img{
+	border:5px solid blue;
+}
